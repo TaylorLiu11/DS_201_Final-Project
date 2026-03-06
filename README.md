@@ -8,10 +8,10 @@ This project explores the classic **Auto MPG dataset** to analyze fuel efficienc
 
 ## Dataset Used
 
-**Name:** Auto MPG Dataset
-**Source:** Built-in dataset from the `seaborn` library (`sns.load_dataset("mpg")`)
-**Size:** 398 rows × 9 columns
-**Features:**
+- **Name:** Auto MPG Dataset
+- **Source:** Built-in dataset from the `seaborn` library (`sns.load_dataset("mpg")`)
+- **Size:** 398 rows × 9 columns
+- **Features:**
 
 | Column | Description |
 |---|---|
